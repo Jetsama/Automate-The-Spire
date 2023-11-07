@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Automate The Spire/lib/BaseMod.jar",
+        "Automate The Spire/lib/desktop-1.0.jar",
+        "Automate The Spire/lib/ModTheSpire.jar"
+    ],
+    "java.project.sourcePaths": [
+        "Automate The Spire/src/main/java",
+        "Automate The Spire/src/main/resources"
+    ]
+}
